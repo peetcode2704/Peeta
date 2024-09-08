@@ -1,0 +1,108 @@
+Class work
+	Git status : On branch master
+Your branch is up to date with 'origin/master'.
+
+nothing to commit, working tree clean
+	
+Git shortlog:
+ (5):
+      Added Queue
+      Method Names Changed for completeness
+      Added toString and rotate
+      Added queue on stack
+      Formatting Fix
+
+5ur3 (1):
+      Create prime_numbers.py (#1519)
+
+8Dion8 (1):
+      Create one_dimensional.py (#1905)
+
+97arushisharma (2):
+      Added Dequeue in Python
+      Merge branch 'master' of https://github.com/jyotsana19/Python
+
+= (1):
+      -Added Gradient Descent Algorithm
+
+@im_8055 (3):
+      Add credit card string validator (#5583)
+      Fix pull request template (#5633)
+      Fix spellings (#5710)
+
+A Safari (8):
+      Create Non-crossing-lines-to-connect-points-in-a-circle
+      Delete Non-crossing-lines-to-connect-points-in-a-circle
+      Directed graph with optional weight assignment .
+      Added some examples.
+      Python version 3
+      Added (Weighted) Undirected graph
+      Added getting node degree functionality to both directed and undirected graph
+      Added more functionality
+	
+Git log -graph: 
+* commit f16d38f26f13683cf3ea75caf0474dedde059b86 (HEAD -> master, origin/master, origin/HEAD)
+| Author: Ramy <126559907+Ramy-Badr-Ahmed@users.noreply.github.com>
+| Date:   Tue Sep 3 14:39:09 2024 +0200
+| 
+|     kd tree data structure implementation (#11532)
+|     
+|     * Implemented KD-Tree Data Structure
+|     
+|     * Implemented KD-Tree Data Structure. updated DIRECTORY.md.
+|     
+|     * [pre-commit.ci] auto fixes from pre-commit.com hooks
+|     
+|     for more information, see https://pre-commit.ci
+|     
+|     * Create __init__.py
+|     
+|     * [pre-commit.ci] auto fixes from pre-commit.com hooks
+|     
+|     for more information, see https://pre-commit.ci
+|     
+|     * Replaced legacy `np.random.rand` call with `np.random.Generator` in kd_tree/example_usage.py
+|     
+|     * Replaced legacy `np.random.rand` call with `np.random.Generator` in kd_tree/hypercube_points.py
+|     
+|     * added typehints and docstrings
+|     
+|     * [pre-commit.ci] auto fixes from pre-commit.com hooks
+|     
+|     for more information, see https://pre-commit.ci 
+
+
+
+
+Git log –graph –oneline : DO TWO DASH INSTEAD OF ONE
+f16d38f2 (HEAD -> master, origin/master, origin/HEAD) kd tree data structure implementation (#11532)
+* bd8085cf [pre-commit.ci] pre-commit autoupdate (#11535)
+* c8e131b8 [pre-commit.ci] pre-commit autoupdate (#11522)
+* e3fa014a Fix ruff (#11527)
+* 48418280 Remove separate directory for `gaussian_elimination_pivoting.py` (#11445)
+* 31c424fc [pre-commit.ci] pre-commit autoupdate (#11515)
+* ed1900f1 Fix typo in integration_by_simpson_approx.py (#11501)
+* dfe67954 [pre-commit.ci] pre-commit autoupdate (#11507)
+* 240d1b7c [pre-commit.ci] pre-commit autoupdate (#11500)
+* 14680030 Add doctests to interpolation_search.py (#11492)
+* d9ded072 [pre-commit.ci] pre-commit autoupdate (#11495)
+* 2d8f22ab [pre-commit.ci] pre-commit autoupdate (#11489)
+* 9190888f [pre-commit.ci] pre-commit autoupdate (#11481)
+* c1dc8e97 Create count_vowels.py (#11474)
+* 716bdeb6 [pre-commit.ci] pre-commit autoupdate (#11473)
+* 6882a8b8 Tests/add new test case weight_conversion (#11468)
+* 75b86671 [pre-commit.ci] pre-commit autoupdate (#11472)
+* 1cfca52d chore: fix typos (#11467)
+* 31d1cd84 [pre-commit.ci] pre-commit autoupdate (#11435)
+* df94d460 Fix/fixes get top billionaries code (#11466)
+* af6a45e9 Remove some per file ignores (#11381)
+* 44674238 Fix grammar and spelling mistakes in sequential_minimum_optimization.py (#11427)
+* 41a1cdf3 Add rainfall intensity calculation function (#11432)
+* 5827aac7 [pre-commit.ci] pre-commit autoupdate (#11430)
+* c9195798 Add KL divergence loss algorithm (#11238)
+* ffaa976f Fixes #9943 (#10252)
+* 2f1704da issue #11150 Ensure explicit column selection and data type setting in data reading process. (#11302)
+* edee8e64 use format to remove '0b' (#11307)
+
+Git remote : origin
+
